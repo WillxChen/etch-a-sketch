@@ -1,0 +1,11 @@
+.gridContainer {
+  display: grid;
+  height: 55rem;
+  width: 55rem;
+}
+
+.cells {
+  border-style: solid;
+  float: left;
+  box-sizing: border-box;
+}
